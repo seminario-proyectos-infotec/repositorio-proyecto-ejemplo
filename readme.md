@@ -7,7 +7,7 @@
 ## Revisores
 
 *   Revisor 1: Dr. Fulanito De Tal, *correo electrónico institucional*
-*   Revisor 2: **Sin Asingar**
+*   Revisor 2: **Sin Asignar**
 
 ## Entregables
 
